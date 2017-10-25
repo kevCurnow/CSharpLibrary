@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.01_intro\bin\Debug\0.01_intro.exe.config
+C:\DotNetProjects\CSharpLibrary\0.01_intro\bin\Debug\0.01_intro.exe
+C:\DotNetProjects\CSharpLibrary\0.01_intro\bin\Debug\0.01_intro.pdb
+C:\DotNetProjects\CSharpLibrary\0.01_intro\obj\Debug\0.01_intro.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.01_intro\obj\Debug\0.01_intro.exe
+C:\DotNetProjects\CSharpLibrary\0.01_intro\obj\Debug\0.01_intro.pdb
