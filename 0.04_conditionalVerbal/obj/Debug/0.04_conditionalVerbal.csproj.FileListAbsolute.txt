@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.04_conditionalVerbal\obj\Debug\0.04_conditionalVerbal.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.04_conditionalVerbal\bin\Debug\0.04_conditionalVerbal.exe.config
+C:\DotNetProjects\CSharpLibrary\0.04_conditionalVerbal\bin\Debug\0.04_conditionalVerbal.exe
+C:\DotNetProjects\CSharpLibrary\0.04_conditionalVerbal\bin\Debug\0.04_conditionalVerbal.pdb
+C:\DotNetProjects\CSharpLibrary\0.04_conditionalVerbal\obj\Debug\0.04_conditionalVerbal.exe
+C:\DotNetProjects\CSharpLibrary\0.04_conditionalVerbal\obj\Debug\0.04_conditionalVerbal.pdb

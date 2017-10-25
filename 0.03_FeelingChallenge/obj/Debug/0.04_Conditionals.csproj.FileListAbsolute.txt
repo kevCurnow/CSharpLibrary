@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.03_FeelingChallenge\bin\Debug\0.03_FeelingChallenge.exe.config
+C:\DotNetProjects\CSharpLibrary\0.03_FeelingChallenge\bin\Debug\0.03_FeelingChallenge.exe
+C:\DotNetProjects\CSharpLibrary\0.03_FeelingChallenge\bin\Debug\0.03_FeelingChallenge.pdb
+C:\DotNetProjects\CSharpLibrary\0.03_FeelingChallenge\obj\Debug\0.04_Conditionals.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.03_FeelingChallenge\obj\Debug\0.03_FeelingChallenge.exe
+C:\DotNetProjects\CSharpLibrary\0.03_FeelingChallenge\obj\Debug\0.03_FeelingChallenge.pdb
+C:\DotNetProjects\CSharpLibrary\0.03_FeelingChallenge\obj\Debug\0.04_Conditionals.csprojResolveAssemblyReference.cache
