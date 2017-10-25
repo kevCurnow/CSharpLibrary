@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.06_EulerChallenges\bin\Debug\0.06_EulerChallenges.exe.config
+C:\DotNetProjects\CSharpLibrary\0.06_EulerChallenges\bin\Debug\0.06_EulerChallenges.exe
+C:\DotNetProjects\CSharpLibrary\0.06_EulerChallenges\bin\Debug\0.06_EulerChallenges.pdb
+C:\DotNetProjects\CSharpLibrary\0.06_EulerChallenges\obj\Debug\0.06_EulerChallenges.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.06_EulerChallenges\obj\Debug\0.06_EulerChallenges.exe
+C:\DotNetProjects\CSharpLibrary\0.06_EulerChallenges\obj\Debug\0.06_EulerChallenges.pdb
+C:\DotNetProjects\CSharpLibrary\0.06_EulerChallenges\obj\Debug\0.06_EulerChallenges.csprojResolveAssemblyReference.cache

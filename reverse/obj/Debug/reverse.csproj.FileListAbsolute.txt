@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\reverse\bin\Debug\reverse.exe.config
+C:\DotNetProjects\CSharpLibrary\reverse\bin\Debug\reverse.exe
+C:\DotNetProjects\CSharpLibrary\reverse\bin\Debug\reverse.pdb
+C:\DotNetProjects\CSharpLibrary\reverse\obj\Debug\reverse.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\reverse\obj\Debug\reverse.exe
+C:\DotNetProjects\CSharpLibrary\reverse\obj\Debug\reverse.pdb

@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.06_ForChallenges\bin\Debug\0.06_ForChallenges.exe.config
+C:\DotNetProjects\CSharpLibrary\0.06_ForChallenges\bin\Debug\0.06_ForChallenges.exe
+C:\DotNetProjects\CSharpLibrary\0.06_ForChallenges\bin\Debug\0.06_ForChallenges.pdb
+C:\DotNetProjects\CSharpLibrary\0.06_ForChallenges\obj\Debug\0.06_ForChallenges.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.06_ForChallenges\obj\Debug\0.06_ForChallenges.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.06_ForChallenges\obj\Debug\0.06_ForChallenges.exe
+C:\DotNetProjects\CSharpLibrary\0.06_ForChallenges\obj\Debug\0.06_ForChallenges.pdb
