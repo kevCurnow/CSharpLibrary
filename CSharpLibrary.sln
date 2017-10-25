@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditionals", "0.03_F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_conditionalVerbal", "0.04_conditionalVerbal\0.04_conditionalVerbal.csproj", "{7851DA08-0198-4505-9D2A-263426233F36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.05_SwitchCase", "0.05_SwitchCase\0.05_SwitchCase.csproj", "{498BA142-670E-467E-A650-CEC3088E3D19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{7851DA08-0198-4505-9D2A-263426233F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7851DA08-0198-4505-9D2A-263426233F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7851DA08-0198-4505-9D2A-263426233F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498BA142-670E-467E-A650-CEC3088E3D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498BA142-670E-467E-A650-CEC3088E3D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498BA142-670E-467E-A650-CEC3088E3D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498BA142-670E-467E-A650-CEC3088E3D19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
