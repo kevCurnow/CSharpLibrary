@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.08_ClassChallenges\bin\Debug\0.08_ClassChallenges.exe.config
+C:\DotNetProjects\CSharpLibrary\0.08_ClassChallenges\bin\Debug\0.08_ClassChallenges.exe
+C:\DotNetProjects\CSharpLibrary\0.08_ClassChallenges\bin\Debug\0.08_ClassChallenges.pdb
+C:\DotNetProjects\CSharpLibrary\0.08_ClassChallenges\obj\Debug\0.08_ClassChallenges.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.08_ClassChallenges\obj\Debug\0.08_ClassChallenges.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.08_ClassChallenges\obj\Debug\0.08_ClassChallenges.exe
+C:\DotNetProjects\CSharpLibrary\0.08_ClassChallenges\obj\Debug\0.08_ClassChallenges.pdb
