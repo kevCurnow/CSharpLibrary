@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.12_RpsAdventure\bin\Debug\0.12_RpsAdventure.exe.config
+C:\DotNetProjects\CSharpLibrary\0.12_RpsAdventure\bin\Debug\0.12_RpsAdventure.exe
+C:\DotNetProjects\CSharpLibrary\0.12_RpsAdventure\bin\Debug\0.12_RpsAdventure.pdb
+C:\DotNetProjects\CSharpLibrary\0.12_RpsAdventure\obj\Debug\0.12_RpsAdventure.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.12_RpsAdventure\obj\Debug\0.12_RpsAdventure.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.12_RpsAdventure\obj\Debug\0.12_RpsAdventure.exe
+C:\DotNetProjects\CSharpLibrary\0.12_RpsAdventure\obj\Debug\0.12_RpsAdventure.pdb

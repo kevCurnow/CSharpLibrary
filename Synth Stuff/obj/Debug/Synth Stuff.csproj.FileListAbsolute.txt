@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\Synth Stuff\bin\Debug\Synth Stuff.exe.config
+C:\DotNetProjects\CSharpLibrary\Synth Stuff\bin\Debug\Synth Stuff.exe
+C:\DotNetProjects\CSharpLibrary\Synth Stuff\bin\Debug\Synth Stuff.pdb
+C:\DotNetProjects\CSharpLibrary\Synth Stuff\obj\Debug\Synth Stuff.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\Synth Stuff\obj\Debug\Synth Stuff.exe
+C:\DotNetProjects\CSharpLibrary\Synth Stuff\obj\Debug\Synth Stuff.pdb
+C:\DotNetProjects\CSharpLibrary\Synth Stuff\obj\Debug\Synth Stuff.csprojResolveAssemblyReference.cache
