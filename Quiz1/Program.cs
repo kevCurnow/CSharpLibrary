@@ -23,15 +23,13 @@ namespace Quiz1
             Console.WriteLine($"Area of Triangle 5 = {newTriangle4.Area()}");
 
             //PART 2 LINQ
-            IEnumerable<Triangle> triangles = new List<Triangle>
+            IEnumerable<Triangle> triangles = new List<Triangle>()
             {
-                new Triangle {TBase = 5, THeight = 10},
-                new Triangle {TBase = 6, THeight = 3},
-                new Triangle {TBase = 2, THeight = 4},
-                new Triangle {TBase = 8, THeight = 16},
-                new Triangle {TBase = 10, THeight = 20},
-
-
+                newTriangle,
+                newTriangle1,
+                newTriangle2,
+                newTriangle3,
+                newTriangle4,
             };
 
             IEnumerable<Triangle> tQuery = from t in triangles
