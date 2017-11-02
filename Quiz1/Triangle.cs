@@ -11,6 +11,7 @@ namespace Quiz1
         //Properties
         public double TBase { get; set; }
         public double THeight { get; set; }
+        public double TArea { get; set; }
 
         //Constructor
         public Triangle(double triBas, double triHei)
@@ -22,7 +23,8 @@ namespace Quiz1
         //Override the Area method
         public override double Area()
         {
-            return (.5*TBase*THeight);
+            this.TArea = this.TBase * this.THeight * .5;
+            return this.TArea;
         }
     }
 }
