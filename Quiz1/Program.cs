@@ -21,6 +21,29 @@ namespace Quiz1
             Console.WriteLine($"Area of Triangle 3 = {newTriangle2.Area()}");
             Console.WriteLine($"Area of Triangle 4 = {newTriangle3.Area()}");
             Console.WriteLine($"Area of Triangle 5 = {newTriangle4.Area()}");
+
+            //PART 2 LINQ
+            IEnumerable<Triangle> triangles = new List<Triangle>
+            {
+                new Triangle {TBase = 5, THeight = 10},
+                new Triangle {TBase = 6, THeight = 3},
+                new Triangle {TBase = 2, THeight = 4},
+                new Triangle {TBase = 8, THeight = 16},
+                new Triangle {TBase = 10, THeight = 20},
+
+
+            };
+
+            IEnumerable<Triangle> tQuery = from t in triangles
+                                           where t.TArea > 15
+                                           orderby t.TArea ascending
+                                           select t;
+
+            foreach (Triangle triangle in tQuery)
+            {
+                Console.WriteLine(triangle.TArea);
+                
+            }
             Console.ReadLine();
             //Just realized you could easily put base and height in an array
         }
