@@ -33,7 +33,7 @@ namespace Quiz1
             };
 
             IEnumerable<Triangle> tQuery = from t in triangles
-                                           where t.TArea > 15
+                                           where t.TArea > 20
                                            orderby t.TArea ascending
                                            select t;
 
