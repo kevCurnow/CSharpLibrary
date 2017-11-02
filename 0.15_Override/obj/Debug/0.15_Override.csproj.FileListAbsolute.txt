@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.15_Override\bin\Debug\0.15_Override.exe.config
+C:\DotNetProjects\CSharpLibrary\0.15_Override\bin\Debug\0.15_Override.exe
+C:\DotNetProjects\CSharpLibrary\0.15_Override\bin\Debug\0.15_Override.pdb
+C:\DotNetProjects\CSharpLibrary\0.15_Override\obj\Debug\0.15_Override.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.15_Override\obj\Debug\0.15_Override.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.15_Override\obj\Debug\0.15_Override.exe
+C:\DotNetProjects\CSharpLibrary\0.15_Override\obj\Debug\0.15_Override.pdb

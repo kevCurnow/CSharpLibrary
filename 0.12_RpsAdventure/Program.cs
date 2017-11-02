@@ -33,7 +33,10 @@ namespace _0._12_RpsAdventure
                 "3: Nessie\n" +
                 "4: Taco\n" +
                 "5: Sheb\n" +
-                "6: Ghost");
+                "6: Ghost\n" +
+                "7: Gungan\n" +
+                "8: ItalianBacon"
+            );
             synth.Speak("What be thy classification stranger?");
             //Get value user provided
             int inputAtype = Int32.Parse(Console.ReadLine());
@@ -42,16 +45,27 @@ namespace _0._12_RpsAdventure
             HorseMange.PlyrClass inputArchetype = (HorseMange.PlyrClass)inputAtype;
 
             Console.Clear();
+            
             Console.WriteLine($"A {inputArchetype}?  Very intriguing.\n" +
             $"I haven't seen a {inputArchetype} in many many moons.");
-            synth.Speak($"A {inputArchetype}? Very intriguing.  I haven't seen a {inputArchetype} in many many moons.");
-
+            if (inputAtype == 7)
+            {
+                synth.Speak($"Yousa una {inputArchetype}? Berry intriguing. Meesa no C N una {inputArchetype} in mooee mooee moons.");
+            }
+            else if (inputAtype == 8)
+            {
+                synth.Speak("a yay atinpiglay ? ery vay intriguing yay .  i yay aven'thay een say a yay atinpiglay in yay any may any may oons may.");
+            }
+            else
+            {
+                synth.Speak($"A {inputArchetype}? Very intriguing.  I haven't seen a {inputArchetype} in many many moons.");
+            }
             Console.Clear();
             Console.WriteLine($"Welcome fair {inputName} of Clan {inputArchetype}. \n" +
                 "This be the dangerously-exciting-underground world of Roshambeau.\n\n" +
-                "Defeat four warriors and you may find what it is you seek.");
+                "Defeat four warriors and you may find what it is you seek, mein frield.");
             synth.Speak($"Welcome fair {inputName} of Clan {inputArchetype}. This be the dangerously exciting underground world of Row Sham Beau. Defeat four warriors and you may find what it is you seek mine freeled.");
-            Thread.Sleep(500);
+            Thread.Sleep(5);
             synth.Speak("Yarr");
         }
     }

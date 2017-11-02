@@ -36,7 +36,9 @@ namespace _0._12_RpsAdventure
             LochNessMonster,
             YummyTaco,
             OneEyedOneHornedFlyinPurplePeopleEater,
-            SpookyGhost
+            SpookyGhost,
+            JarJarBinks,
+            LatinPig,
         }
         public enum WeaponChoice
         {
