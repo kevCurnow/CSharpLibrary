@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bob.cs" />
+    <Compile Include="Battle.cs" />
     <Compile Include="Fighters.cs" />
     <Compile Include="HorseMange.cs" />
     <Compile Include="Opponent.cs" />

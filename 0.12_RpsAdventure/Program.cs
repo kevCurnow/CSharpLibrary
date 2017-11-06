@@ -50,7 +50,8 @@ namespace _0._12_RpsAdventure
             $"I haven't seen a {inputArchetype} in many many moons.");
             if (inputAtype == 7)
             {
-                synth.Speak($"Yousa una {inputArchetype}? Berry intriguing. Meesa no C N una {inputArchetype} in mooee mooee moons.");
+
+                synth.Speak($"Yousa una {inputArchetype}? BBerry intriguing. Meesa no C N una {inputArchetype} in mooee mooee moons.");
             }
             else if (inputAtype == 8)
             {
@@ -67,6 +68,11 @@ namespace _0._12_RpsAdventure
             synth.Speak($"Welcome fair {inputName} of Clan {inputArchetype}. This be the dangerously exciting underground world of Row Sham Beau. Defeat four warriors and you may find what it is you seek mine freeled.");
             Thread.Sleep(5);
             synth.Speak("Yarr");
-        }
+            HorseMange newHM = new HorseMange(inputName, inputArchetype);
+            while (newHM.Defeated < 5)
+            {
+                Battle newBattle = new Battle();
+            }
+       }
     }
 }
