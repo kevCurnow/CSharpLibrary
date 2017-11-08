@@ -43,15 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bob.cs" />
-    <Compile Include="Battle.cs" />
     <Compile Include="Fighters.cs" />
     <Compile Include="HorseMange.cs" />
     <Compile Include="Opponent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Ronaldo.cs" />
-    <Compile Include="Roshambo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
