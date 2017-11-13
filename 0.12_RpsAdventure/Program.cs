@@ -12,6 +12,8 @@ namespace _0._12_RpsAdventure
     {
         static void Main(string[] args)
         {
+           //TODO: work on opponent strategies, ie sequencing, throwing what you threw last, throwing the move that won last time, 
+            
             //This will be used for later
             SpeechSynthesizer synth = new SpeechSynthesizer();
 
@@ -117,7 +119,7 @@ namespace _0._12_RpsAdventure
                                 else if (newOpp.Attack() == 1)
                                 {
                                     Console.Clear();
-                                    synth.Speak("Crinkle Cover.");
+                                    synth.Speak("Ooh, ow a paper cut.");
                                     Console.WriteLine($"{newOpp.paperWin[champion]}");
                                     Thread.Sleep(5000);
                                     newHM.Lives = newHM.Lives - 1;
@@ -135,7 +137,7 @@ namespace _0._12_RpsAdventure
                                 if (newOpp.Attack() == 0)
                                 {
                                     Console.Clear();
-                                    synth.Speak("Crinkle Cover.");
+                                    synth.Speak("Ooh, ow a paper cut.");
                                     Console.WriteLine($"{newOpp.rockLoss[champion]}");
                                     Thread.Sleep(5000);
                                     newOpp.Lives = newOpp.Lives - 1;
@@ -188,6 +190,7 @@ namespace _0._12_RpsAdventure
                         Console.WriteLine($"{newOpp.win[champion]}");
                         Thread.Sleep(5000);
                         Console.WriteLine($"Game over {newHM.Name}. We hope you or another {newHM.Archetype} returns soon.");
+                        synth.Speak($"Game over {newHM.Name}. We hope you or another {newHM.Archetype} returns soon.");
                         Thread.Sleep(5000);
                         isRunning = false;
                     }
@@ -197,7 +200,8 @@ namespace _0._12_RpsAdventure
                         Console.WriteLine($"{newOpp.loss[champion]}");
                         Thread.Sleep(5000);
                         Console.Clear();
-                        Console.WriteLine($"Congratulations {newHM.Name} of Clan {newHM.Archetype} you are the new champion of Roshambo.");
+                        Console.WriteLine($"Congratulations {newHM.Name} of Clan {newHM.Archetype} you are the new champion of Roshambeau.");
+                        synth.Speak($"Congratulations {newHM.Name} of Clan {newHM.Archetype} you are the new champion of Roshambeau.");
                         Thread.Sleep(5000);
                         Console.WriteLine("Would you like to view the secret ending?");
                         Thread.Sleep(3000);
@@ -212,7 +216,7 @@ namespace _0._12_RpsAdventure
                             if (trueName == "Horse Mange")
                             {
                                 Console.Clear();
-                                Console.WriteLine("SecretMessage");
+                                Console.WriteLine($"{newOpp.opponents[champion]} represents {newOpp.secretEnding[champion]}");
                             }
                             else
                             {

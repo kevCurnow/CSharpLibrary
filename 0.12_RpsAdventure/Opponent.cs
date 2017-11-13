@@ -34,8 +34,7 @@ namespace _0._12_RpsAdventure
         public string[] scissorsLoss = new string[] { "You easily counter Bob the Peasant's feebish attacks and throw him off his feet.", "You stand your ground, somehow managing to block each and everyone of Ronaldo's fancy shots.", "You catch the Code Burglar in the act and remind him that it's okay to use your work as a reference, but not to plagerize it as his own.", "You see the Code Master's attack coming before he does and counter it." };
         public string[] rockLoss = new string[] { "You easily side-step Bob the Peasant's mad rush by remaining calm", "You counter Ronaldo with your own fancy footwork, leaving him dumbfounded as you sprint down the pitch.", "You convince The Code Burglar that what he is about to do is wrong and help him change his ways (temporarily).", "Using the power of Google you are able to comprehend the Code Master's blast and absorb it." };
         public string[] paperLoss = new string[] { "You ignore Bob the Peasant's attempt to make you pity him.", "After reviewing the tape, the referee agrees that you never touched Ronaldo and penalizes him for being a Whiney Little Flopper Baby.", "You explain to the Code Burglar that Fair Use is not an excuse for plagiarism.", "You neutralize the Code Master's soothing voice by entering your own meditative state of peacefully tranquility." };
-
-
+        public string[] secretEnding = new string[] { "us just a few weeks ago, with little to nothing in our programming knowledge banks constantly asking for help.", "the stud genius who knows everything and by proxy makes you think less of yourself.", "the ease of plagerism (DON'T DO IT!). It's okay to use templates, just be sure to change them.", "the point at which you hit a breakthrough: understanding code, fixing a small mistake, or simply just staying calm and knowing when to walk away." };
     }
 }
     
