@@ -1,26 +1,23 @@
-﻿using _0._18_GuessingGame.Models;
+﻿using _0._19_GuessingGameRebuild.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace _0._18_GuessingGame.Controllers
+namespace _0._19_GuessingGameRebuild.Controllers
 {
     public class GameController : Controller
     {
-
         // GET: Game
         public ActionResult Index()
         {
-            //use Session["answer"] as dictionary to store random for current user
             Session["answer"] = new Random().Next(1, 10);
 
-           return View();
+            return View();
         }
 
         private bool GuessWasCorrect(int guess) =>
-            //cast (int) is the same as convert.to
             guess == (int)Session["answer"];
 
         //POST: Game
@@ -28,10 +25,8 @@ namespace _0._18_GuessingGame.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Index(GameModel model)
         {
-            //ModelState is property of GameController
-            if (ModelState.IsValid)
+            if(ModelState.IsValid)
             {
-                //ViewBag belongs to view, nothing validating if Win is property
                 ViewBag.Win = GuessWasCorrect(model.Guess);
             }
 
