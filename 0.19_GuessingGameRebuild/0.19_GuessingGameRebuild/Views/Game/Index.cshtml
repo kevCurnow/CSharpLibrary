@@ -5,6 +5,8 @@
 }
 
 <h2>Index</h2>
+@*ViewBag.Win can still be null because it hasn't been created.
+  ?? checks if null*@
 @if (!(ViewBag.Win ?? false))
 {
     if(ViewBag.Win != null && !ViewBag.Win)
