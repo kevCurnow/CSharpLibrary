@@ -3,7 +3,7 @@ This project is a collection of small examples to showcase the fundamentals of M
 
 ## Examples
 
- * 0.01_intro - The start of any programming language, "Hello world!"
+ * 0.01_intro - The start of any programming language, ["Hello world!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
  * 0.02_BasicTypes - An introduction to the multitude of variable types in C#.
  * 0.02_BasicTypesChallenges - Applying knowledge of variable types using console write lines.
  * 0.03_Strings - An introduction to the string variable type including string interpolation.
@@ -11,8 +11,8 @@ This project is a collection of small examples to showcase the fundamentals of M
  * 0.04_Conditionals - An introduction to the equality operator (==).
  * 0.04_conditionalVerbal - Applying knowledge of conditionals.
  * 0.05_SwitchCase - An introduction to the switch selection statement and cases.
- * 0.06_EulerChallenges - Problem 2 from Project Euler, finding the sum of even Fibonacci numbers that do not exceed four million.
- * 0.06_ForChallenges - A "FizzBuzz" Challenge utilizing for loops.
+ * 0.06_EulerChallenges - [Problem 2 from Project Euler](https://projecteuler.net/problem=2), finding the sum of even Fibonacci numbers that do not exceed four million.
+ * 0.06_ForChallenges - A ["FizzBuzz"](https://en.wikipedia.org/wiki/Fizz_buzz) Challenge utilizing for loops.
  * 0.06_ForLoops - A basic countdown using a for loop and switch-case.
  * 0.06_reverse - Reversing a string of characters.
  * 0.07_Objects - An introduction to classes and properties.
